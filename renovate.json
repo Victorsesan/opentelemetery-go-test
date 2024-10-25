@@ -28,10 +28,7 @@
     },
     {
       "matchPackageNames": ["go.opentelemetry.io/otel/**"],
-      "enabled": true,
-      "ignore": {
-        "matchUpdateTypes": ["pin", "digest"]
-      }
+      "enabled": true
     },
     {
       "matchPackageNames": ["go.opentelemetry.io/otel/**"],
