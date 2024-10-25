@@ -28,11 +28,7 @@
     },
     {
       "matchPackageNames": ["go.opentelemetry.io/otel/**"],
-      "enabled": true,
-      "versioning": "semver",
-      "exclude": {
-        "version": "commit"
-      }
+      "enabled": true
     },
     {
       "matchPackageNames": ["go.opentelemetry.io/otel/**"],
