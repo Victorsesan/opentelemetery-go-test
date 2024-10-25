@@ -43,6 +43,6 @@
   ],
   "versioning": {
     "enabled": true,
-    "bumpVersion": "patch" // or "minor" or "major" based on your needs
+    "bumpVersion": "patch"
   }
 }
