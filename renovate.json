@@ -34,15 +34,6 @@
       "matchPackageNames": ["go.opentelemetry.io/otel/**"],
       "sourceUrlPrefixes": ["https://github.com/open-telemetry/opentelemetry-go"],
       "enabled": false
-    },
-    {
-      "matchPackageNames": ["*"],
-      "enabled": false,
-      "description": "Skip all other upgrades unless specified"
     }
-  ],
-  "versioning": {
-    "enabled": true,
-    "bumpVersion": "patch"
-  }
+  ]
 }
